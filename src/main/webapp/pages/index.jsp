@@ -89,7 +89,7 @@
 			</tbody>
 		</table>
 		<hr>
-		Export: <a href="#">Excel</a> <a href="#">Pdf</a>
+		Export: <a href="excel">Excel</a> <a href="pdf">Pdf</a>
 	</div>
 
 	<script
